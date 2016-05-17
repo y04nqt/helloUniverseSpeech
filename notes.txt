@@ -1,0 +1,20 @@
+srcs
+
+  Documentation
+    -React Docs
+      https://facebook.github.io/react/docs/getting-started.html
+    -Mozilla Developer Network
+      https://developer.mozilla.org/en-US/search?q=
+    -Node.js Docs
+      https://nodejs.org/api/
+
+  Videos
+    -LearnCode.academy
+      https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=1
+    -Javascript Planet
+      https://www.youtube.com/watch?v=hiyxcOSrVdM&list=PL1Z_7yg6Pa3DwjSo6BOBpjLKXHXD0FEvn
+
+
+      laravel testing
+
+        karma/jasmine/solenium web driver /protactor
