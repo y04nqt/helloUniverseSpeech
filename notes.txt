@@ -9,6 +9,8 @@ srcs
       https://nodejs.org/api/
     -W3schools HTML5 Docs
       http://www.w3schools.com/html/
+    -Webpack Module Bundler docs
+      https://webpack.github.io/docs/what-is-webpack.html
 
   Videos
     -LearnCode.academy
