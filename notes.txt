@@ -7,6 +7,8 @@ srcs
       https://developer.mozilla.org/en-US/search?q=
     -Node.js Docs
       https://nodejs.org/api/
+    -W3schools HTML5 Docs
+      http://www.w3schools.com/html/
 
   Videos
     -LearnCode.academy
@@ -17,4 +19,6 @@ srcs
 
       laravel testing
 
-        karma/jasmine/solenium web driver /protactor
+        karma/jasmine/solenium web driver /protactor (FANTASTIC)
+
+        angular phone cat test driven development
